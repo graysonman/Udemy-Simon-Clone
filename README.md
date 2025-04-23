@@ -34,6 +34,7 @@ A simple memory-based game where you repeat an increasingly long pattern of colo
 
 1b. Clone this repo:
    ```bash
-   https://github.com/your-username/Udemy-Simon-Clone.git ```
+   https://github.com/your-username/Udemy-Simon-Clone.git
+   ```
 2. Open index.html in your browser.
 3. Enjoy!
