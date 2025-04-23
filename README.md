@@ -30,8 +30,8 @@ A simple memory-based game where you repeat an increasingly long pattern of colo
 - jQuery
 
 ## 🚀 Getting Started
-
-1. Clone this repo:
+1a. Site is live with Github Pages: https://graysonman.github.io/Udemy-Simon-Clone/
+1b. Clone this repo:
    ```bash
    https://github.com/your-username/Udemy-Simon-Clone.git
 2. Open index.html in your browser.
